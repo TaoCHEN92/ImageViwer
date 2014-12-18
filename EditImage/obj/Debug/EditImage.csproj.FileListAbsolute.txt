@@ -1,0 +1,9 @@
+C:\Users\Sipcom\Desktop\CT\EditImage\EditImage\bin\Debug\EditImage.exe.config
+C:\Users\Sipcom\Desktop\CT\EditImage\EditImage\obj\Debug\EditImage.csprojResolveAssemblyReference.cache
+C:\Users\Sipcom\Desktop\CT\EditImage\EditImage\obj\Debug\EditImage.EditImage.resources
+C:\Users\Sipcom\Desktop\CT\EditImage\EditImage\obj\Debug\EditImage.Properties.Resources.resources
+C:\Users\Sipcom\Desktop\CT\EditImage\EditImage\obj\Debug\EditImage.csproj.GenerateResource.Cache
+C:\Users\Sipcom\Desktop\CT\EditImage\EditImage\bin\Debug\EditImage.exe
+C:\Users\Sipcom\Desktop\CT\EditImage\EditImage\bin\Debug\EditImage.pdb
+C:\Users\Sipcom\Desktop\CT\EditImage\EditImage\obj\Debug\EditImage.exe
+C:\Users\Sipcom\Desktop\CT\EditImage\EditImage\obj\Debug\EditImage.pdb
